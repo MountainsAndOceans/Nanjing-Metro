@@ -1,0 +1,2 @@
+D:\C++\编程训练\Metro\x64\Debug\Metro.exe
+E:\C++\编程训练\Metro\x64\Debug\Metro.exe
